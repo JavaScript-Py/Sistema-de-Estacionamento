@@ -1,0 +1,14 @@
+C:\Users\Raphael\Desktop\Projetos\C#BootcampDIO\SistemaDeEstacionamento\bin\Debug\net8.0\SistemaDeEstacionamento.exe
+C:\Users\Raphael\Desktop\Projetos\C#BootcampDIO\SistemaDeEstacionamento\bin\Debug\net8.0\SistemaDeEstacionamento.deps.json
+C:\Users\Raphael\Desktop\Projetos\C#BootcampDIO\SistemaDeEstacionamento\bin\Debug\net8.0\SistemaDeEstacionamento.runtimeconfig.json
+C:\Users\Raphael\Desktop\Projetos\C#BootcampDIO\SistemaDeEstacionamento\bin\Debug\net8.0\SistemaDeEstacionamento.dll
+C:\Users\Raphael\Desktop\Projetos\C#BootcampDIO\SistemaDeEstacionamento\bin\Debug\net8.0\SistemaDeEstacionamento.pdb
+C:\Users\Raphael\Desktop\Projetos\C#BootcampDIO\SistemaDeEstacionamento\obj\Debug\net8.0\SistemaDeEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raphael\Desktop\Projetos\C#BootcampDIO\SistemaDeEstacionamento\obj\Debug\net8.0\SistemaDeEstacionamento.AssemblyInfoInputs.cache
+C:\Users\Raphael\Desktop\Projetos\C#BootcampDIO\SistemaDeEstacionamento\obj\Debug\net8.0\SistemaDeEstacionamento.AssemblyInfo.cs
+C:\Users\Raphael\Desktop\Projetos\C#BootcampDIO\SistemaDeEstacionamento\obj\Debug\net8.0\SistemaDeEstacionamento.csproj.CoreCompileInputs.cache
+C:\Users\Raphael\Desktop\Projetos\C#BootcampDIO\SistemaDeEstacionamento\obj\Debug\net8.0\SistemaDeEstacionamento.dll
+C:\Users\Raphael\Desktop\Projetos\C#BootcampDIO\SistemaDeEstacionamento\obj\Debug\net8.0\refint\SistemaDeEstacionamento.dll
+C:\Users\Raphael\Desktop\Projetos\C#BootcampDIO\SistemaDeEstacionamento\obj\Debug\net8.0\SistemaDeEstacionamento.pdb
+C:\Users\Raphael\Desktop\Projetos\C#BootcampDIO\SistemaDeEstacionamento\obj\Debug\net8.0\SistemaDeEstacionamento.genruntimeconfig.cache
+C:\Users\Raphael\Desktop\Projetos\C#BootcampDIO\SistemaDeEstacionamento\obj\Debug\net8.0\ref\SistemaDeEstacionamento.dll
